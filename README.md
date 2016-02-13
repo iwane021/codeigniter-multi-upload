@@ -1,5 +1,4 @@
 # codeigniter-multi-upload
-creating multi upload file using library on codeigniter
 
 This is a tutorial for multi uploading file on codeigniter version 3.x
 
