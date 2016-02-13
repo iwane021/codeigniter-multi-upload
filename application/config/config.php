@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$allowed_domains = array('localhost/Codeigniter-303/', '');
-$default_domain  = 'localhost/Codeigniter-303/';
+$allowed_domains = array('localhost/codeigniter-multi-upload/', '');
+$default_domain  = 'localhost/codeigniter-multi-upload/';
 
 if (in_array($_SERVER['HTTP_HOST'], $allowed_domains, TRUE))
 {
